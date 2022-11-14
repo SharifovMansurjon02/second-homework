@@ -1,0 +1,11 @@
+.header{
+    
+    border: 2px solid white;
+    padding: 30px;
+}
+button{
+    padding: 30px 60px;
+    border-radius: 40px;
+    color: #3939f7;
+    border-color: #3939f7;
+}
